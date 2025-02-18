@@ -1,0 +1,7 @@
+site_name: My TechDocs
+nav:
+  - Home: index.md
+  
+docs_dir: doc
+plugins:
+  - techdocs-core
