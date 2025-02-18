@@ -2,6 +2,6 @@ site_name: My TechDocs
 nav:
   - Home: index.md
   
-docs_dir: doc
+docs_dir: docs
 plugins:
   - techdocs-core
