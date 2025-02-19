@@ -1,6 +1,10 @@
 site_name: My TechDocs
 nav:
-  - Home: index.md
+  - Intoduction: 'index.md'
+  - Configs:
+      - Getting started: 'getting-started.yml' 
+	  - Installation:
+	      - Prerequisites: 'prerequisites.md'
 docs_dir: docs
 plugins:
   - techdocs-core
