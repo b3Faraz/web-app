@@ -2,7 +2,7 @@ site_name: b3Faraz-springboot
 nav:
   - Intoduction: 'index.md'
   - Configs:
-      - Getting started: 'getting-started.yml' 
+      - Getting started: 'getting-started.md' 
       - Installation:
           - Prerequisites: 'prerequisites.md'
 docs_dir: docs
