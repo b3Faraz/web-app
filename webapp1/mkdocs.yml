@@ -5,6 +5,7 @@ nav:
       - Getting started: 'getting-started.md' 
       - Installation:
           - Prerequisites: 'prerequisites.md'
+  - About: 'about.md'
 docs_dir: docs
 plugins:
   - techdocs-core
